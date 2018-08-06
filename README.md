@@ -249,7 +249,7 @@ vm.a // 2
 ```
 
 # watch
-
+```
 类型：{ [key: string]: string | Function | Object | Array }
 
 详细：
@@ -299,3 +299,4 @@ vm.a = 2 // => new: 2, old: 1
 
 参考：实例方法 / 数据 - vm.$watch
 
+```
