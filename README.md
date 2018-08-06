@@ -1,0 +1,11 @@
+#方法说明
+##methods
+##beforeCreate
+##created
+##beforeMount
+##mounted
+##beforeUpdate
+##updated
+##beforeDestroy
+##destroyed
+##watch
